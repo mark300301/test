@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 000000hello
+=======
+wii22929292929wawwwwwhello
+>>>>>>> staging
